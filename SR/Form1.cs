@@ -36,5 +36,40 @@ namespace SR
         {
 
         }
+
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+        private void bunifuMaterialTextbox1_KeyUp(object sender, KeyEventArgs e)
+        {
+            
+        }
+
+        private void Login_MouseClick(object sender, MouseEventArgs e)
+        {
+
+        }
+
+        private void bunifuMaterialTextbox1_MouseClick(object sender, MouseEventArgs e)
+        {
+         
+        }
+
+        private void bunifuMaterialTextbox1_ChangeUICues(object sender, UICuesEventArgs e)
+        {
+
+        }
+
+        private void Login_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
