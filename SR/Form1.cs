@@ -13,9 +13,9 @@ using System.Windows.Forms;
 
 namespace SR
 {
-    public partial class Form1 : Form
+    public partial class Login : Form
     {
-        public Form1()
+        public Login()
         {
             InitializeComponent();
         }
@@ -30,6 +30,11 @@ namespace SR
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Thanks!");
+        }
+
+        private void bunifuFlatButton1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
