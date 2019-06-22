@@ -101,5 +101,15 @@ namespace SR
         {
             
         }
+
+        private void tableLayoutPanel4_Paint_1(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void tableLayoutPanel3_Paint_1(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

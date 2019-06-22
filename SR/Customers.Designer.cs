@@ -60,7 +60,7 @@
             this.tableLayoutPanel4.Name = "tableLayoutPanel4";
             this.tableLayoutPanel4.RowCount = 1;
             this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 20F));
+            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 301F));
             this.tableLayoutPanel4.Size = new System.Drawing.Size(599, 301);
             this.tableLayoutPanel4.TabIndex = 27;
             // 
@@ -120,7 +120,7 @@
             this.helpBtn.FlatAppearance.MouseOverBackColor = System.Drawing.Color.CadetBlue;
             this.helpBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.helpBtn.Font = new System.Drawing.Font("Arial", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.helpBtn.ForeColor = System.Drawing.Color.LightGreen;
+            this.helpBtn.ForeColor = System.Drawing.Color.LightCyan;
             this.helpBtn.Location = new System.Drawing.Point(3, 267);
             this.helpBtn.Name = "helpBtn";
             this.helpBtn.Size = new System.Drawing.Size(195, 31);
@@ -216,7 +216,7 @@
             this.customersBtn.FlatAppearance.MouseOverBackColor = System.Drawing.Color.CadetBlue;
             this.customersBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.customersBtn.Font = new System.Drawing.Font("Arial", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.customersBtn.ForeColor = System.Drawing.Color.LightCyan;
+            this.customersBtn.ForeColor = System.Drawing.Color.LightGreen;
             this.customersBtn.Location = new System.Drawing.Point(3, 36);
             this.customersBtn.Name = "customersBtn";
             this.customersBtn.Size = new System.Drawing.Size(195, 27);
